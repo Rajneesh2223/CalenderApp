@@ -7,11 +7,14 @@ Here are some snapshots of the application in action:
 | **Login Page** | **Dashboard** |
 |:--------------:|:-------------:|
 | ![Login Page](![Screenshot (962)](https://github.com/user-attachments/assets/9843dc63-4fc3-4318-bfef-930de971ff7a)
-) | ![Dashboard](./images/dashboard.png) |
+) | ![Dashboard](![Screenshot (959)](https://github.com/user-attachments/assets/88d234b0-f7a2-45ee-b4e8-08a16bf0ae31)
+) |
 
 | **Event Creation** | **Responsive Design** |
 |:------------------:|:---------------------:|
-| ![Event Creation](./images/event-creation.png) | ![Responsive Design](./images/responsive-design.png) |
+| ![Event Creation](![Screenshot (960)](https://github.com/user-attachments/assets/dccbde4f-02b5-473e-bbcd-4972d7e352ac)
+) | ![Responsive Design](![Screenshot (961)](https://github.com/user-attachments/assets/6721ff1f-ddb4-43a9-81d6-74663da1e021)
+) |
 
 ---
 
