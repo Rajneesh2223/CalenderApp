@@ -39,20 +39,6 @@ Here are some snapshots of the application in action:
 - bcryptjs (for password hashing)
 - CORS
 
-## Project Structure
-
-```
-/
-├── client/              # Frontend React Application
-│   ├── src/
-│   ├── public/
-│   └── package.json
-│
-└── server/              # Backend Node.js Application
-    ├── index.js
-    ├── package.json
-    └── .env
-```
 
 ## Getting Started
 
