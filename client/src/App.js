@@ -17,7 +17,7 @@ const Calendar = () => {
 
   const fetchEvents = async () => {
     try {
-      const response = await fetch('http://localhost:4000/api/events', {
+      const response = await fetch('https://calenderapp-1.onrender.com/api/events', {
         headers: {
           'Authorization': `Bearer ${localStorage.getItem('token')}`
         }
@@ -62,8 +62,8 @@ const Calendar = () => {
             try {
               const method = selectedEvent ? 'PUT' : 'POST';
               const url = selectedEvent 
-                ? `http://localhost:4000/api/events/${selectedEvent._id}`
-                : 'http://localhost:4000/api/events';
+                ? `https://calenderapp-1.onrender.com/api/events/${selectedEvent._id}`
+                : 'https://calenderapp-1.onrender.com/api/events';
 
               const response = await fetch(url, {
                 method,

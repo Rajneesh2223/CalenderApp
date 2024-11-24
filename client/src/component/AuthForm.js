@@ -36,7 +36,7 @@ const AuthForm = () => {
     setIsLoading(true);
     try {
       const response = await fetch(
-        `http://localhost:4000/api/auth/${isLoginView ? 'login' : 'register'}`,
+        `https://calenderapp-1.onrender.com/api/auth/${isLoginView ? 'login' : 'register'}`,
         {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
