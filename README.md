@@ -6,7 +6,8 @@ Here are some snapshots of the application in action:
 
 | **Login Page** | **Dashboard** |
 |:--------------:|:-------------:|
-| ![Login Page](./images/login-page.png) | ![Dashboard](./images/dashboard.png) |
+| ![Login Page](![Screenshot (962)](https://github.com/user-attachments/assets/9843dc63-4fc3-4318-bfef-930de971ff7a)
+) | ![Dashboard](./images/dashboard.png) |
 
 | **Event Creation** | **Responsive Design** |
 |:------------------:|:---------------------:|
