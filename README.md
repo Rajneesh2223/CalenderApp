@@ -136,15 +136,6 @@ CORS_ORIGIN=your_frontend_url
 REACT_APP_API_URL=your_backend_url
 ```
 
-## Security Features
-
-- Password hashing using bcryptjs
-- JWT token authentication
-- CORS protection
-- MongoDB Atlas security
-- Input validation and sanitization
-- Protected API routes
-
 ## Contributing
 
 1. Fork the repository
