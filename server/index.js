@@ -9,14 +9,16 @@ dotenv.config();
 const app = express();
 
 app.use(cors({
-  origin: ['http://localhost:3000','https://cheery-granita-bb0390.netlify.app/'],
+  origin: ['http://localhost:3000', 'https://your-netlify-app.netlify.app'],
   credentials: true,
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
   allowedHeaders: ['Content-Type', 'Authorization'],
   exposedHeaders: ['Access-Control-Allow-Origin']
 }));
 
+
 app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
 
 
 const userSchema = new mongoose.Schema({
