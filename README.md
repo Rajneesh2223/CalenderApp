@@ -2,6 +2,18 @@
 
 A full-stack calendar application built with React.js and Node.js that allows users to manage their events and schedules efficiently.
 
+Here are some snapshots of the application in action:
+
+| **Login Page** | **Dashboard** |
+|:--------------:|:-------------:|
+| ![Login Page](./images/login-page.png) | ![Dashboard](./images/dashboard.png) |
+
+| **Event Creation** | **Responsive Design** |
+|:------------------:|:---------------------:|
+| ![Event Creation](./images/event-creation.png) | ![Responsive Design](./images/responsive-design.png) |
+
+---
+
 ## Features
 
 - 👤 User Authentication (Register/Login)
